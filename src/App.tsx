@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div className="page-shell">
-      <div className="topline"><span>UNA CASA PARA DISFRUTAR</span><span>BUENAS BIRRAS · BUENA COMIDA · BUENA COMPAÑÍA</span><span>DESDE 2012</span></div>
+      
       <BrandHeader />
       <main>
         <MenuHero />
